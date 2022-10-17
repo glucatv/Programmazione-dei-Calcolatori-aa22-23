@@ -13,3 +13,11 @@ Dall'algoritmo al programma. Linguaggi di programmazione compilati ed interpreta
 
 [Video della lezione](https://www.dropbox.com/s/yeeqv0tqewfzzjw/Lezione%202%20-%202022-10-12-20221012_140236-Registrazione%20della%20riunione.mp4?dl=1)
 
+## Lezione 3 del 2022-10-17
+
+Tipi di dato ed operatori: la funzione `type; `operatori tra tipi numerici (somma, differenza, moltiplicazione, divisione, divisione intera, modulo, potenza); operatori tra stringhe (concatenazione, ripetizione, appartenenza o `in`, indicizzazione, funzione `len`). Assegnamenti multipli. Diramazione del codice: le istruzioni `if`-`elif`-`else`. La funzione `input`. Le funzioni di conversione `float`, `int` e `str` *Esercizio per casa*: scrivere un programma che chieda in input una stringa e calcoli il numero di vocali che essa contiene.
+
+[Video della lezione](https://www.dropbox.com/s/v8v3wjxu3jtxctc/Lezione%203%20-%202022-10-17-20221017_135822-Registrazione%20della%20riunione.mp4?dl=1)
+
+
+

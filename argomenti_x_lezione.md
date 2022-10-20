@@ -19,5 +19,20 @@ Tipi di dato ed operatori: la funzione `type; `operatori tra tipi numerici (somm
 
 [Video della lezione](https://www.dropbox.com/s/v8v3wjxu3jtxctc/Lezione%203%20-%202022-10-17-20221017_135822-Registrazione%20della%20riunione.mp4?dl=1)
 
+## Lezione 4 del 2022-10-19
+
+Operatori relazionali e logici; operatore di addizione (o sottrazione) e assegnazione (`+=`, `-=`). La dichiarazione `for` sulle stringhe. Immutabilità delle stringhe.
+
+*Esercizio per casa*: scrivere un programma che chieda all'utente di inserire due stringhe `x`ed `y` e stampi la posizione di `x` a partire dalla quale compare `y`; nel caso in cui `y` non sia contenuto in `x`, stampi `-1`. Ad esempio, se
+
+```python
+x = 'programmazione'
+y = 'gramma'
+```
+
+il programma deve stampare `3`.
+
+[Video della lezione](https://www.dropbox.com/s/xagw6mgygwy7cjj/Lezione%204%20-%20Lezioni%202022-23-20221019_135859-Registrazione%20della%20riunione.mp4?dl=1 )
+
 
 

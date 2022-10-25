@@ -34,5 +34,13 @@ il programma deve stampare `3`.
 
 [Video della lezione](https://www.dropbox.com/s/xagw6mgygwy7cjj/Lezione%204%20-%20Lezioni%202022-23-20221019_135859-Registrazione%20della%20riunione.mp4?dl=1 )
 
+## Lezione 5 del 2022-10-24
+
+Correzione dell'esercizio per casa, diverse versioni. L'istruzione `break`. L'operazione di *slicing* di una stringa.
+
+*Esercizio per casa*. Risolvere l'esercizio proposto nella lezione precedente utilizzando lo slicing.
+
+[Video della lezione](https://www.dropbox.com/s/lw9ukiatanhvfkl/Lezione%205%20-%20Lezioni%202022-23-20221024_140009-Registrazione%20della%20riunione.mp4?dl=1) 
+
 
 

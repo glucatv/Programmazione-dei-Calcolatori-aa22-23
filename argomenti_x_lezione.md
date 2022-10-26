@@ -40,7 +40,14 @@ Correzione dell'esercizio per casa, diverse versioni. L'istruzione `break`. L'op
 
 *Esercizio per casa*. Risolvere l'esercizio proposto nella lezione precedente utilizzando lo slicing.
 
-[Video della lezione](https://www.dropbox.com/s/lw9ukiatanhvfkl/Lezione%205%20-%20Lezioni%202022-23-20221024_140009-Registrazione%20della%20riunione.mp4?dl=1) 
+[Video della lezione](https://www.dropbox.com/s/lw9ukiatanhvfkl/Lezione%205%20-%20Lezioni%202022-23-20221024_140009-Registrazione%20della%20riunione.mp4?dl=1)
 
+## Lezione 6 del 2022-10-26
+
+Soluzione dell'esercizio per casa. Le funzioni in Python: funzioni incorporate (`print`, `input`, `len`, `str`, `int`,...); funzioni di libreria (*moduli*); funzioni definite dall'utente. Utilizzare i moduli: importare moduli o singole funzioni da un modulo. Cenni sui moduli `random` (funzione `random` e `randint`), `math` e `time`. Funzioni definite dall'utente: definizione di funzione; parametri formali; invocazione di funzione; parametri attuali; la dichiarazione `return`; ambienti di funzione. La funzione `range`.
+
+*Esercizio per casa*. Scrivere una funzione che prende in input due stringhe e restituisce il carattere della prima stringa che compare più volte nella seconda. Ad esempio se la prima stringa è `ciao` e la seconda è `ramarro marrone`, la funzione deve restituire `a`.
+
+[Video della lezione](https://www.dropbox.com/s/vonbo0gfir8uhl1/Lezione%206%20del%202022-10-26-20221026_135747-Registrazione%20della%20riunione.mp4?dl=1)  
 
 

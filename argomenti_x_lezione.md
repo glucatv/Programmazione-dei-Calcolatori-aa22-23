@@ -52,7 +52,7 @@ Soluzione dell'esercizio per casa. Le funzioni in Python: funzioni incorporate (
 
 ## Lezione 7 del 2022-10-31
 
-Soluzione dell'esercizio per casa. Stringhe formattate. Caratteri speciali. Ambienti delle funzioni e visibilità delle variabili. Parametri delle funzioni con valori di default; i parametri della funzione `print`; argomenti per nome.
+Soluzione dell'esercizio per casa. Il tipo di dato `None`. Stringhe formattate. Caratteri speciali. Ambienti delle funzioni e visibilità delle variabili. Parametri delle funzioni con valori di default; i parametri della funzione `print`; argomenti per nome.
 
 *Esercizio per casa*. Scrivere una funzione che riceva in input un intero `n` e restituisca un `float` (pseudo)-casuale compreso tra 0 ed 1 composto da `n` cifre decimali significative dopo la virgola. 
 

@@ -56,6 +56,26 @@ Soluzione dell'esercizio per casa. Il tipo di dato `None`. Stringhe formattate. 
 
 *Esercizio per casa*. Scrivere una funzione che riceva in input un intero `n` e restituisca un `float` (pseudo)-casuale compreso tra 0 ed 1 composto da `n` cifre decimali significative dopo la virgola. 
 
-[Video della lezione](https://www.dropbox.com/s/ouebn0j64eqaohw/Lezione%207%20-%20Lezioni%202022-23-20221031_140033-Registrazione%20della%20riunione.mp4?dl=1) 
+[Video della lezione](https://www.dropbox.com/s/ouebn0j64eqaohw/Lezione%207%20-%20Lezioni%202022-23-20221031_140033-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 8 del 2022-11-02
+
+Soluzione dell'esercizio per casa. Funzioni: *docstring*; output multipli; numero variabile di argomenti (esercizio, stampa verticale); uso delle funzione per creare astrazione e rendere modulare il codice; insidie dell'astrazione.
+
+#### Esercizi per casa
+
+1. Dati `3` segmenti adiacenti ed `n` `float` si vuole calcolare quanti degli `n` `float` ricadono in ogni segmento. I segmenti sono  rappresentati da 2 `float` `h0` e `h1` che definiscono i segmenti: `(-`&infin;`, h0)`, `[h0, h1)`, `[h1, `&infin;`]`. Si progetti una funzione che prenda in input la descrizione di 3 segmenti (`h0` e `h1`) e un numero variabile di `float` e restituisca una terna di interi che rappresenta il numero di `float` che ricade in ciascuno dei 3 segmenti.
+
+	Ad esempio se l'input della funzione fosse `-7, 5, 3, 10, -4, 5, -12, 6, 0`, i segmenti sono: i numeri minori di `-7`; i numeri compresi tra `-7` e `5` (escluso); i numeri maggiori-uguali a `5`. I valori `-12` e `-4` fanno parte del primo segmento; `3` e `0` fanno parte del secondo segmento; `10`, `5` e `6` fanno parte del terzo segmento. Quindi la funzione dovrebbe restituire la terna: `2, 2, 3`
+
+	*Suggerimento* La funzione abbia la seguente intestazione
+
+	```python
+	def hist(h0, h1, *numbers)
+	```
+	
+	dove `numbers` rappresenta il numero variabile di `float`
+
+[Video della lezione](https://www.dropbox.com/s/wu2xw027v48nan0/Lezione%208%20-Lezioni%202022-23-20221102_135913-Registrazione%20della%20riunione.mp4?dl=1)
 
 

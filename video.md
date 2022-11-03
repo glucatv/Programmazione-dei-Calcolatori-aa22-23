@@ -7,3 +7,4 @@
 5. [2022-10-24](https://www.dropbox.com/s/lw9ukiatanhvfkl/Lezione%205%20-%20Lezioni%202022-23-20221024_140009-Registrazione%20della%20riunione.mp4?dl=1)
 6. [2022-10-26](https://www.dropbox.com/s/vonbo0gfir8uhl1/Lezione%206%20del%202022-10-26-20221026_135747-Registrazione%20della%20riunione.mp4?dl=1)
 7. [2022-10-31](https://www.dropbox.com/s/ouebn0j64eqaohw/Lezione%207%20-%20Lezioni%202022-23-20221031_140033-Registrazione%20della%20riunione.mp4?dl=1)
+8. [2022-11-02](https://www.dropbox.com/s/wu2xw027v48nan0/Lezione%208%20-Lezioni%202022-23-20221102_135913-Registrazione%20della%20riunione.mp4?dl=1)

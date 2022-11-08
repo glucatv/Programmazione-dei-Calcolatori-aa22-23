@@ -64,9 +64,9 @@ Soluzione dell'esercizio per casa. Funzioni: *docstring*; output multipli; numer
 
 #### Esercizi per casa
 
-1. Dati `3` segmenti adiacenti ed `n` `float` si vuole calcolare quanti degli `n` `float` ricadono in ogni segmento. I segmenti sono  rappresentati da 2 `float` `h0` e `h1` che definiscono i segmenti: `(-`&infin;`, h0)`, `[h0, h1)`, `[h1, `&infin;`]`. Si progetti una funzione che prenda in input la descrizione di 3 segmenti (`h0` e `h1`) e un numero variabile di `float` e restituisca una terna di interi che rappresenta il numero di `float` che ricade in ciascuno dei 3 segmenti.
+Dati `3` segmenti adiacenti ed `n` `float` si vuole calcolare quanti degli `n` `float` ricadono in ogni segmento. I segmenti sono  rappresentati da 2 `float` `h0` e `h1` che definiscono i segmenti: `(-`&infin;`, h0)`, `[h0, h1)`, `[h1, `&infin;`)`. Si progetti una funzione che prenda in input la descrizione di 3 segmenti (`h0` e `h1`) e un numero variabile di `float` e restituisca una terna di interi che rappresenta il numero di `float` che ricade in ciascuno dei 3 segmenti.
 
-	Ad esempio se l'input della funzione fosse `-7, 5, 3, 10, -4, 5, -12, 6, 0`, i segmenti sono: i numeri minori di `-7`; i numeri compresi tra `-7` e `5` (escluso); i numeri maggiori-uguali a `5`. I valori `-12` e `-4` fanno parte del primo segmento; `3` e `0` fanno parte del secondo segmento; `10`, `5` e `6` fanno parte del terzo segmento. Quindi la funzione dovrebbe restituire la terna: `2, 2, 3`
+	Ad esempio se l'input della funzione fosse `-7, 5, 3, 10, -4, 5, -12, 6, 0`, i segmenti sono: i numeri minori di `-7`; i numeri compresi tra `-7` e `5` (escluso); i numeri maggiori-uguali a `5`. I valori `-12` e `-4` fanno parte del primo segmento; `3` e `0` fanno parte del secondo segmento; `10`, `5` e `6` fanno parte del terzo segmento. Quindi la funzione dovrebbe restituire la terna: `1, 3, 3`
 
 	*Suggerimento* La funzione abbia la seguente intestazione
 
@@ -77,5 +77,21 @@ Soluzione dell'esercizio per casa. Funzioni: *docstring*; output multipli; numer
 	dove `numbers` rappresenta il numero variabile di `float`
 
 [Video della lezione](https://www.dropbox.com/s/wu2xw027v48nan0/Lezione%208%20-Lezioni%202022-23-20221102_135913-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 9 del 2022-11-07
+
+Soluzione dell'esercizio per casa. Le *tuple*: definizione, indicizzazione, slicing, packing, unpacking, immutabilità. Funzioni come input di altre funzioni. Funzioni `lambda`. Espressioni condizionali. Cenni sui metodi.
+
+##### Esercizi per casa
+
+1. Si progetti una funzione denominata `init_tuple` che prenda in input un intero positivo `n` e, opzionalmente, una funzione `v`. La funzione restituisca una tupla di lunghezza `n` che in posizione `i` contenga `v(i)`. Qualora il parametro `v` non fosse specificato, la funzione restituirebbe una tupla composta da `n` zeri.
+
+	*Suggerimento*. Potrebbe essere utile partire da una tupla vuota - si indica così `()` - e poi procedere per concatenazioni successive. A tal proposito si provi ad usare l'operatore `+` come si fa con le stringhe. Una tupla composta da un unico elemento `e` si definisce in questo modo `(e, )`.  
+
+2. Utilizzare la funzione `init_tuple` per creare una tupla contenente i primi 10 numeri dispari
+3. Utilizzare la funzione `init_tuple` per creare una tupla contenente 10 stringhe non vuote di lunghezza crescente
+4. Utilizzare la funzione `init_tuple` per creare una tupla contenente 10 tuple tali che la tupla in posizione `i` sia lunga 10 e contenga `i` in ogni posizione. *Suggerimento*: come per le stringhe, `*` sulle tuple è l'operatore di ripetizione.
+
+[Video della lezione](https://www.dropbox.com/s/rxb6ylvn2ez003l/Lezione%209%20-%20Lezioni%202022-23-20221107_140018-Registrazione%20della%20riunione.mp4?dl=1)
 
 

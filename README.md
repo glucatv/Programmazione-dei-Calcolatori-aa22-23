@@ -3,8 +3,20 @@
 ---------------------------------
 
 ## Programma dettagliato
+### Aggiornato al 7 novembre, 2022
 
-*TODO*
+0. Introduzione al modello computazionale
+
+1. Prima parte: Python
+
+    1. Introduzione a Python
+        - Guttag capitolo 2
+        - No par. 2.4.2
+    3. Funzioni
+        - Guttag capitolo 4 
+        - Funzioni di libreria (cenni sui moduli *random*, *math* e *time*)
+    4. Strutture dati
+	    - Tuple (Guttag 5.1)
 
 ## Riferimenti
 

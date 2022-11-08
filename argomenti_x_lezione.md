@@ -70,11 +70,11 @@ Ad esempio se l'input della funzione fosse `-7, 5, 3, 10, -4, 5, -12, 6, 0`, i s
 
 *Suggerimento* La funzione abbia la seguente intestazione
 
-	```python
-	def hist(h0, h1, *numbers)
-	```
-	
-	dove `numbers` rappresenta il numero variabile di `float`
+```python
+def hist(h0, h1, *numbers)
+```
+
+dove `numbers` rappresenta il numero variabile di `float`
 
 [Video della lezione](https://www.dropbox.com/s/wu2xw027v48nan0/Lezione%208%20-Lezioni%202022-23-20221102_135913-Registrazione%20della%20riunione.mp4?dl=1)
 

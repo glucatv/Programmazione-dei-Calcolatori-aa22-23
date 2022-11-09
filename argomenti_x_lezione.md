@@ -94,4 +94,15 @@ Soluzione dell'esercizio per casa. Le *tuple*: definizione, indicizzazione, slic
 
 [Video della lezione](https://www.dropbox.com/s/rxb6ylvn2ez003l/Lezione%209%20-%20Lezioni%202022-23-20221107_140018-Registrazione%20della%20riunione.mp4?dl=1)
 
+## Lezione 10 del 2022-11-09
+
+Soluzione dell'esercizio per casa e stima del numero di operazioni eseguite dalla funzione. Le operazioni di concatenazione e ripetizione su tuple. Numero di operazioni eseguite da una funzione e sua relazione con il tempo di calcolo. Le liste: creazione, indicizzazione, slicing, concatenazione, ripetizione, funzione `len`, cancellazione, il metodo `append`. Numero di operazioni elementari richieste dalle precedenti funzionalità.
+
+#### Esercizi per casa
+
+1. Si progetti una funzione analoga a `init_tuple` per le liste.
+2. Si progetti una funzione, denominata `rem_none` che prenda in input una lista ed elimini da questa tutti gli elementi a valore `None`.
+
+[Video della lezione](https://www.dropbox.com/s/uei7a28hxykl1sx/Lezione%2010%20del%202022-11-09-20221109_135950-Registrazione%20della%20riunione.mp4?dl=1) 
+
 

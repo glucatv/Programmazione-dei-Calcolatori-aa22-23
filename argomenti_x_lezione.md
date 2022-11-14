@@ -103,6 +103,12 @@ Soluzione dell'esercizio per casa e stima del numero di operazioni eseguite dall
 1. Si progetti una funzione analoga a `init_tuple` per le liste.
 2. Si progetti una funzione, denominata `rem_none` che prenda in input una lista ed elimini da questa tutti gli elementi a valore `None`.
 
-[Video della lezione](https://www.dropbox.com/s/uei7a28hxykl1sx/Lezione%2010%20del%202022-11-09-20221109_135950-Registrazione%20della%20riunione.mp4?dl=1) 
+[Video della lezione](https://www.dropbox.com/s/uei7a28hxykl1sx/Lezione%2010%20del%202022-11-09-20221109_135950-Registrazione%20della%20riunione.mp4?dl=1)
 
+
+## Lezione 11 del 2022-11-15
+
+Soluzione degli esercizi per casa: ottimizzazione del numero di operazioni eseguito. L'operatore `in` su tuple e liste. Le funzioni `min`, `max`, `sum`. *Aliasing* e *clonazione*.
+
+[Video della lezione](https://www.dropbox.com/s/qfva5jttwwtfnxq/Lezione%2011%20-%20Lezioni%202022-23-20221114_140056-Registrazione%20della%20riunione.mp4?dl=1)
 

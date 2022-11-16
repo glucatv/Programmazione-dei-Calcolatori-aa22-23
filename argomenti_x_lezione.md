@@ -106,9 +106,12 @@ Soluzione dell'esercizio per casa e stima del numero di operazioni eseguite dall
 [Video della lezione](https://www.dropbox.com/s/uei7a28hxykl1sx/Lezione%2010%20del%202022-11-09-20221109_135950-Registrazione%20della%20riunione.mp4?dl=1)
 
 
-## Lezione 11 del 2022-11-15
+## Lezione 11 del 2022-11-14
 
 Soluzione degli esercizi per casa: ottimizzazione del numero di operazioni eseguito. L'operatore `in` su tuple e liste. Le funzioni `min`, `max`, `sum`. *Aliasing* e *clonazione*.
 
 [Video della lezione](https://www.dropbox.com/s/qfva5jttwwtfnxq/Lezione%2011%20-%20Lezioni%202022-23-20221114_140056-Registrazione%20della%20riunione.mp4?dl=1)
 
+## Lezione 12 del 2022-11-16
+
+Prima prova intermedia

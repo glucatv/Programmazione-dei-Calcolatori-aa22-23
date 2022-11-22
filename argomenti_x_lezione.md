@@ -115,3 +115,13 @@ Soluzione degli esercizi per casa: ottimizzazione del numero di operazioni esegu
 ## Lezione 12 del 2022-11-16
 
 Prima prova intermedia
+
+## Lezione 13 del 2022-11-21
+
+Soluzioni e commenti sulla prova intermedia. Funzioni ricorsive: convergenza; memoria utilizzata.
+
+#### Esercizio per casa
+
+Si progetti una funzione, denominata `count_int` che prenda in input una lista che può contenere liste annidate e restituisca il numero di interi nella lista e in tutte le sottoliste annidate che questa contiene. Ad esempio `count_int( [3, [9, [2,5], 2], 10, [8, [4,3], [1,2], 3]] )` dovrebbe restituire 12.
+
+[Video della lezione](https://www.dropbox.com/s/715fkpe32kiyllj/Lezione%2013%20-%20Lezioni%202022-23-20221121_140127-Registrazione%20della%20riunione.mp4?dl=1)

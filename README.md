@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato al 7 novembre, 2022
+### Aggiornato al 21 novembre, 2022
 
 0. Introduzione al modello computazionale
 
@@ -17,6 +17,8 @@
         - Funzioni di libreria (cenni sui moduli *random*, *math* e *time*)
     4. Strutture dati
 	    - Tuple (Guttag 5.1)
+	    - Liste (Guttag 5.3, 5.3.1, )
+    5. Funzioni ricorsive (Guttag cap 6)
 
 ## Testi di riferimento
 

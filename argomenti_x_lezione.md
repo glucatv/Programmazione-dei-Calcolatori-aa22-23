@@ -125,3 +125,15 @@ Soluzioni e commenti sulla prova intermedia. Funzioni ricorsive: convergenza; me
 Si progetti una funzione, denominata `count_int` che prenda in input una lista che può contenere liste annidate e restituisca il numero di interi nella lista e in tutte le sottoliste annidate che questa contiene. Ad esempio `count_int( [3, [9, [2,5], 2], 10, [8, [4,3], [1,2], 3]] )` dovrebbe restituire 12.
 
 [Video della lezione](https://www.dropbox.com/s/715fkpe32kiyllj/Lezione%2013%20-%20Lezioni%202022-23-20221121_140127-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 14 del 2022-11-23
+
+Soluzione dell'esercizio per casa con arricchimenti. Esercizio svolo in classe: implementazione di una funzione ricorsiva per la *clonazione profonda* di liste. Il modulo `os` e le funzioni `os.listdir()`, `os.getcwd()`, `os.path.isfile()`, `os.path.isdir()`, `os.path.join()`. Esempio: `browse_dir()`, una funzione che prende in input il nome di una cartella (un `str`) e stampa i nomi di tutti i file nella cartella ed in tutte le sue sottocartelle.
+
+#### Esercizi per casa
+
+1. Modificare `browse_dir' nel seguente modo:  aggiungere un secondo parametro `ext` opzionale di tipo `str` che, se specificato, stampi solo i file che hanno per estensione `ext`. Se non indicato, la funzione si comporti nel modo originale.
+
+2. Modificare la precedente funzione in modo tale che, invece di stampare i nomi dei file, li ritorni in una lista.
+
+[Video della lezione](https://www.dropbox.com/s/qtgro34ga4twvu4/Lezione%2014%20-%20Lezioni%202022-23-20221123_140139-Registrazione%20della%20riunione.mp4?dl=1)

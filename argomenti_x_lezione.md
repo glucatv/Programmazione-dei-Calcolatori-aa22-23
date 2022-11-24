@@ -132,7 +132,7 @@ Soluzione dell'esercizio per casa con arricchimenti. Esercizio svolo in classe: 
 
 #### Esercizi per casa
 
-1. Modificare `browse_dir' nel seguente modo:  aggiungere un secondo parametro `ext` opzionale di tipo `str` che, se specificato, stampi solo i file che hanno per estensione `ext`. Se non indicato, la funzione si comporti nel modo originale.
+1. Modificare `browse_dir` nel seguente modo:  aggiungere un secondo parametro `ext` opzionale di tipo `str` che, se specificato, stampi solo i file che hanno per estensione `ext`. Se non indicato, la funzione si comporti nel modo originale.
 
 2. Modificare la precedente funzione in modo tale che, invece di stampare i nomi dei file, li ritorni in una lista.
 

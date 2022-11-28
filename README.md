@@ -19,6 +19,7 @@
 	    - Tuple (Guttag 5.1)
 	    - Liste (Guttag 5.3, 5.3.1, )
     5. Funzioni ricorsive (Guttag cap 6)
+    6. Moduli (Guttag cap 7)
 
 ## Testi di riferimento
 

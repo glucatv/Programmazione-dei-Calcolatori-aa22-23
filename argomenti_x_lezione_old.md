@@ -137,24 +137,3 @@ Soluzione dell'esercizio per casa con arricchimenti. Esercizio svolo in classe: 
 2. Modificare la precedente funzione in modo tale che, invece di stampare i nomi dei file, li ritorni in una lista.
 
 [Video della lezione](https://www.dropbox.com/s/qtgro34ga4twvu4/Lezione%2014%20-%20Lezioni%202022-23-20221123_140139-Registrazione%20della%20riunione.mp4?dl=1)
-
-## Lezione 15 del 2022-11-28
-
-Soluzione degli esercizi per casa, il metodo `extend` delle liste. File di testo: lettura, scrittura (creazione) e *append*; la funzione `open`; i metodi `write` e `close`; iterare su file.
-
-#### Esercizio per casa
-
-Implementare la funzione che soddisfi la seguente specifica:
-
-```python
-def hist( a, bins ):
-    '''
-    Input: a una lista di m float e bins una lista di n-1 floats ordinati in modo crescente
-    Output: una lista h di n floats tale che:
-        - h[0] = numero di elementi in a < bins[0]
-        - h[n-1] = numero di elementi in a >= bins[n-2]
-        - per i = 1,..., n-2, h[i] = numero di elementi in a >= bins[i-1] e < bin[i]
-    '''
-```
-
-[Video della lezione](https://www.dropbox.com/s/o5yxre6rdcknpug/Lezione%2015%20-%20Lezioni%202022-23-20221128_140208-Registrazione%20della%20riunione.mp4?dl=1)

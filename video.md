@@ -14,3 +14,4 @@
 12. 2022-11-16, prova intermedia
 13. [2022-11-21](https://www.dropbox.com/s/715fkpe32kiyllj/Lezione%2013%20-%20Lezioni%202022-23-20221121_140127-Registrazione%20della%20riunione.mp4?dl=1)
 14. [2022-11-23](https://www.dropbox.com/s/qtgro34ga4twvu4/Lezione%2014%20-%20Lezioni%202022-23-20221123_140139-Registrazione%20della%20riunione.mp4?dl=1)
+15. [2022-11-28](https://www.dropbox.com/s/o5yxre6rdcknpug/Lezione%2015%20-%20Lezioni%202022-23-20221128_140208-Registrazione%20della%20riunione.mp4?dl=1)

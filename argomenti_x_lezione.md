@@ -158,3 +158,37 @@ def hist( a, bins ):
 ```
 
 [Video della lezione](https://www.dropbox.com/s/o5yxre6rdcknpug/Lezione%2015%20-%20Lezioni%202022-23-20221128_140208-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 16 del 2022-11-30
+
+Soluzione dell'esercizio per casa. Il costo computazionale delle funzioni (o algoritmi), contare il numero di operazioni elementari per stimare il tempo di calcolo; il costo nel caso peggiore; analisi del costo della funzione data per casa. Algoritmo di ricerca binaria: descrizione e costo computazionale (`O(log n)`).
+
+#### Esercizio per casa
+
+Si progetti una funzione che rispetti la specifica
+
+```python
+def find_in_file( filename, k):
+	'''
+	Input: filename e k sono str, filename è il nome di un file
+	Output: una tupla (r0, r1, ...) di interi che indicano le righe del file in cui compare k  
+	'''
+```
+Sia `n` il numero di righe nel file, calcolare il costo computazionale della funzione nei seguenti casi:
+
+1. la lunghezza di ogni riga e la stringa `k` abbiano lunghezza costante;
+2. lunghezza di ogni riga sia al più `m` e la stringa `k` abbia lunghezza costante;
+
+Modificare la funzione in modo che la nuova specifica sia
+
+```python
+def find_in_file( filename, k):
+	'''
+	Input: filename e k sono str, filename è il nome di un file
+	Output: una tupla ( (r0, c0), (r1, c1), ...) di coppie di interi che indicano le
+		righe e le colonne del file in cui compare k. Per colonna si intende la posizione
+		all'interno della riga  
+	'''
+```
+
+[Video della lezione](https://www.dropbox.com/s/ynnsdt0d1yxuems/Lezione%2016%20del%202022-11-30-20221130_135916-Registrazione%20della%20riunione.mp4?dl=1)

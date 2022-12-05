@@ -192,3 +192,13 @@ def find_in_file( filename, k):
 ```
 
 [Video della lezione](https://www.dropbox.com/s/ynnsdt0d1yxuems/Lezione%2016%20del%202022-11-30-20221130_135916-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 17 del 2022-12-05
+
+Soluzione degli esercizi per casa. La funzione `tuple`. Implementazione dell'algoritmo di ricerca binaria.
+
+#### Esercizio per casa
+
+Completare il *debug* della funzione `bin_search` e correggere gli eventuali errori.	
+
+[Video della lezione](https://www.dropbox.com/s/0cga07v5p8zozbm/Lezione%2017%20Lezioni%202022-23-20221205_140036-Registrazione%20della%20riunione.mp4?dl=1)

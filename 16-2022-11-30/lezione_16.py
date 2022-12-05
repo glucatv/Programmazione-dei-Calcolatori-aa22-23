@@ -9,8 +9,8 @@ def hist( a, bins ):
     '''
     Input: a una lista di m float e bins una lista di n-1 floats ordinati in modo crescente
     Output: una lista h di n floats tale che:
-        - h[0] = numero di elementi in a < bins[0]
-        - h[n-1] = numero di elementi in a >= bins[n-2]
+        - h[0] = numero di elementi in v < bins[0]
+        - h[n-1] = numero di elementi in v >= bins[n-2]
         - per i = 1,..., n-2, h[i] = numero di elementi in a >= bins[i-1] e < bin[i]
     '''
     

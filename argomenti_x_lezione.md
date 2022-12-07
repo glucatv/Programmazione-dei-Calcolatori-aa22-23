@@ -214,20 +214,20 @@ Soluzione dell'esercizio per casa (prova di debugging). La funzione `list` e la 
 
 		email_studente;voto
 		
-	*Esempio*: L'esecuzione di `analizza_test( '18-2022-12-07' )` deve produrre il seguente dizionario
+	*Esempio*: L'esecuzione di `analizza_test( '18-2022-12-07' )` deve produrre il seguente dizionario 
 	
 	```
 	{'ironman@avengers.mv': [5],
- 'captain.america@avengers.mv': [7, 6],
- 'hulk@avengers.mv': [6],
- 'spiderman@avengers.mv': [9, 9],
- 'superman@justiceleague.dc': [4, 6],
- 'wonder.woman@justiceleague.dc': [10],
- 'aquaman@justiceleague.dc': [8, 8],
- 'thor@avengers.mv': [4],
- 'batman@justiceleague.dc': [5],
- 'green.lantern@justiceleague.dc': [7]}
- ```
+ 	'captain.america@avengers.mv': [7, 6],
+ 	'hulk@avengers.mv': [6],
+ 	'spiderman@avengers.mv': [9, 9],
+ 	'superman@justiceleague.dc': [4, 6],
+ 	'wonder.woman@justiceleague.dc': [10],
+ 	'aquaman@justiceleague.dc': [8, 8],
+ 	'thor@avengers.mv': [4],
+ 	'batman@justiceleague.dc': [5],
+ 	'green.lantern@justiceleague.dc': [7]}
+ 	```
 3. Modificare la precedente funzione in modo che il dizionario associ indirizzi email al voto finale derivante da tutte le prove a cui hanno partecipato gli studenti. Per il voto finale ogni prova intermedia contribuisce nel seguente modo: da 0 a 5 punti il contributo è 0, con 6 il contributo è 0.3, con 7 il contributo è 0.4, con 8 il contributo è 0.6, con 9 punti il contributo è 1 e con 10 punti il contributo è 1.5.
 
 	*Esempio*: L'esecuzione della nuova versione di  `analizza_test( '18-2022-12-07' )` deve produrre il seguente dizionario:

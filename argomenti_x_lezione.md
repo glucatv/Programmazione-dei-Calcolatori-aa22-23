@@ -202,3 +202,47 @@ Soluzione degli esercizi per casa. La funzione `tuple`. Implementazione dell'alg
 Completare il *debug* della funzione `bin_search` e correggere gli eventuali errori.	
 
 [Video della lezione](https://www.dropbox.com/s/0cga07v5p8zozbm/Lezione%2017%20Lezioni%202022-23-20221205_140036-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 18 del 2022-12-07
+
+Soluzione dell'esercizio per casa (prova di debugging). La funzione `list` e la *comprensione di lista*. La struttura dati **dizionario**: definizione; lettura; aggiornamento o inserimento; cancellazione; la funzione `len`; i metodi `keys` e `values`.
+
+#### Esercizi per casa
+
+1. (*Riscaldamento*) Si scriva una funzione che prenda in input una lista di stringhe `a` e restituisca un dizionario che abbia per chiavi le iniziali delle stringhe in `a` e ad ogni chiave `k` associ come valore la lista di stringhe in `a` che cominciano con `k`.
+2. Il docente ha raccolto in una cartella del pc dei file di testo con i risultati delle prove intermedie dell'esame di programmazione. Ogni file contiene l'esito di una prova e riporta su ogni riga l'email dello studente ed il punteggio ottenuto (un intero tra 0 e 10). Il docente deve scrivere un programma Python per raccolga tutti i risultati, in particolare vuole ottenere un dizionario che associ agli indirizzi email degli studenti (le chiavi) la lista dei punteggi riportati nelle prove a cui ha partecipato. Si progetti una funzione denominata `analizza_test` che prenda in input il nome della cartella contenente i file di testo e restituisca il dizionario così come descritto sopra. Si assuma che i file contenenti i risultati abbiano estensione `csv`, contengano una riga per ogni partecipante all'esame e le righe abbiano il formato:
+
+		email_studente;voto
+		
+	*Esempio*: L'esecuzione di `analizza_test( '18-2022-12-07' )` deve produrre il seguente dizionario
+	
+	```
+	{'ironman@avengers.mv': [5],
+ 'captain.america@avengers.mv': [7, 6],
+ 'hulk@avengers.mv': [6],
+ 'spiderman@avengers.mv': [9, 9],
+ 'superman@justiceleague.dc': [4, 6],
+ 'wonder.woman@justiceleague.dc': [10],
+ 'aquaman@justiceleague.dc': [8, 8],
+ 'thor@avengers.mv': [4],
+ 'batman@justiceleague.dc': [5],
+ 'green.lantern@justiceleague.dc': [7]}
+ ```
+3. Modificare la precedente funzione in modo che il dizionario associ indirizzi email al voto finale derivante da tutte le prove a cui hanno partecipato gli studenti. Per il voto finale ogni prova intermedia contribuisce nel seguente modo: da 0 a 5 punti il contributo è 0, con 6 il contributo è 0.3, con 7 il contributo è 0.4, con 8 il contributo è 0.6, con 9 punti il contributo è 1 e con 10 punti il contributo è 1.5.
+
+	*Esempio*: L'esecuzione della nuova versione di  `analizza_test( '18-2022-12-07' )` deve produrre il seguente dizionario:
+	
+	```
+	{'ironman@avengers.mv': 0,
+	'captain.america@avengers.mv': 0.7,
+	'hulk@avengers.mv': 0.3,
+	'spiderman@avengers.mv': 2,
+	'superman@justiceleague.dc': 0.3,
+	'wonder.woman@justiceleague.dc': 1.5,
+	'aquaman@justiceleague.dc': 1.2,
+	'thor@avengers.mv': 0,
+	'batman@justiceleague.dc': 0,
+	'green.lantern@justiceleague.dc': 0.4}  
+	```
+
+[Video della lezione](https://www.dropbox.com/s/zyi1l4tsyahj2bl/Lezione%2018%20-%20Riunione%20in%20_Lezioni%202022-23_-20221207_140219-Registrazione%20della%20riunione.mp4?dl=1)

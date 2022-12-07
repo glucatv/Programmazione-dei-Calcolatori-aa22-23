@@ -100,7 +100,7 @@ print(t)
 def bin_search( k, bins ):
     '''
     sia n-1 la lunghezza di bins, ritorna 0 se k < bins[0],
-        n se k >= bin[n-2], i se bins[i-1] <= k < bin[i]
+        n-1 se k >= bin[n-2], i se bins[i-1] <= k < bin[i]
     '''
 
     n = len(bins)+1
@@ -126,4 +126,4 @@ def bin_search( k, bins ):
     
     return cx
 
-print( bin_search(9, [6, 8, 10] ) )
+print( bin_search(7, [6, 8, 10] ) )

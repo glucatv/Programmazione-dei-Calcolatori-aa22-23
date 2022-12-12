@@ -256,4 +256,4 @@ Soluzione parziale degli esercizi per casa. Il metodo `get` dei dizionari. Soluz
 1. Debugging e correzione dell'esercizio da completare
 2. Risolvere la seconda parte dell'esercizio 2
 
-[Video della lezione](TODO)
+[Video della lezione](https://www.dropbox.com/s/p6zbgii1e76oye7/Lezione%2019%20-%20Riunione%20in%20_Lezioni%202022-23_-20221212_140312-Registrazione%20della%20riunione.mp4?dl=1)

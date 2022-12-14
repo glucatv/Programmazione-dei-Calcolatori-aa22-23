@@ -19,3 +19,4 @@
 17. [2022-12-05](https://www.dropbox.com/s/0cga07v5p8zozbm/Lezione%2017%20Lezioni%202022-23-20221205_140036-Registrazione%20della%20riunione.mp4?dl=1)
 18. [2022-12-07](https://www.dropbox.com/s/zyi1l4tsyahj2bl/Lezione%2018%20-%20Riunione%20in%20_Lezioni%202022-23_-20221207_140219-Registrazione%20della%20riunione.mp4?dl=1)
 19. [2022-12-12](https://www.dropbox.com/s/p6zbgii1e76oye7/Lezione%2019%20-%20Riunione%20in%20_Lezioni%202022-23_-20221212_140312-Registrazione%20della%20riunione.mp4?dl=1)
+20. [2022-12-14](https://www.dropbox.com/s/qzqjjd30t4vk7nx/Lezione%2020%20del%202022-12-14-20221214_140111-Registrazione%20della%20riunione.mp4?dl=1)

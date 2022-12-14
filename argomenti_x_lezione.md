@@ -257,3 +257,25 @@ Soluzione parziale degli esercizi per casa. Il metodo `get` dei dizionari. Soluz
 2. Risolvere la seconda parte dell'esercizio 2
 
 [Video della lezione](https://www.dropbox.com/s/p6zbgii1e76oye7/Lezione%2019%20-%20Riunione%20in%20_Lezioni%202022-23_-20221212_140312-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 20 del 2022-12-14
+
+Soluzione degli esercizi per casa e cosa cambia, in termini di costo, se i problemi vengono risolti utilizzando una lista invece del dizionario. Il problema dell'ordinamento; l'algoritmo **Bubble Sort**, descrizione ed implementazione.
+
+#### Esercizi per casa
+
+1. Trasformare il codice dell'algoritmo Bubble Sort in una funzione denominata `bubble_sort`che prenda in input una lista di numeri e la muti ordinandoli in modo crescente.
+2. Sia `n` la lunghezza della lista in input, calcolare la complessità computazione della funzione `bubble_sort` distinguendo il caso peggiore ed il caso migliore.
+3. Modificare la funzione `bubble_sort` in modo da soddisfare la seguente specifica
+
+	```python
+	def bubble_sort(a, inplace=True):
+	'''
+	Input:  a, una lista di str; inplace un bool
+	Output: ordina le stringhe in a dalla più corta alla più lunga, ritorna la lista ordinata.
+		Se inplace è True la funzione muta a, altrimenti viene restituita una nuova lista
+		con le stringhe di a ordinate come richiesto
+	'''
+	```
+	
+[Video della lezione](https://www.dropbox.com/s/qzqjjd30t4vk7nx/Lezione%2020%20del%202022-12-14-20221214_140111-Registrazione%20della%20riunione.mp4?dl=1)

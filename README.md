@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato al 21 novembre, 2022
+### Aggiornato al 20 dicembre, 2022
 
 0. Introduzione al modello computazionale
 
@@ -17,10 +17,20 @@
         - Funzioni di libreria (cenni sui moduli *random*, *math* e *time*)
     4. Strutture dati
 	    - Tuple (Guttag 5.1)
-	    - Liste (Guttag 5.3, 5.3.1, )
+	    - Range (Guttag 5.2)
+	    - Liste (Guttag 5.3, 5.5)
+	    - Dizionari (Guttag 5.7)
     5. Funzioni ricorsive (Guttag cap 6)
     6. Moduli (Guttag cap 7)
-
+	   	- Moduli `random`, `math`, `time`, `os` (script lezione 6 e 14)
+	   	- Navigazione ricorsiva dell'albero del file system (script lezione 14)
+    7. Complessità computazionale (Guttag 11)
+    8. Ricerca binaria (Guttag 12.1)
+    9. Algoritmi di ordinamento
+	   	- Bubble-sort (Dispense)
+	  	- Personalizzare il criterio di ordinamento (script lezione 21)
+	  	- Ordinamento multi criterio e confronto tra tuple (script lezione 21)
+	   
 ## Testi di riferimento
 
 * **Prima parte**:

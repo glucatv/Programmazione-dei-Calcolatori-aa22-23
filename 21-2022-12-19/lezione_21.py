@@ -133,6 +133,14 @@ def num_str( v ):
 M0 = bubble_sort(L, key=num_str, inplace=False)
 print(M0)
 
+# se t0 e t1 sono due tuple, t0 < t1 se nella prima posizione in cui le due tuple
+# differiscono, diciamo i,  t0[i] < t1[i]
+#
+# la funzione num_str se usata come parametro key assegna valori pù piccoli ai numeri
+# e più grandi alle stringhe. Quindi i numeri precederanno le stringhe. All'interno
+# della sequenza dei numeri (o delle stringhe), verrà utilizzato il valore, ovvero
+# il secondo elemento della tupla
+
 # In[]
 L = [ 8,1, 10, 3]
 L.sort()

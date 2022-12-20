@@ -279,3 +279,13 @@ Soluzione degli esercizi per casa e cosa cambia, in termini di costo, se i probl
 	```
 	
 [Video della lezione](https://www.dropbox.com/s/qzqjjd30t4vk7nx/Lezione%2020%20del%202022-12-14-20221214_140111-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 21 del 2022-12-19
+
+Soluzione degli esercizi per casa. Impostare il criterio per l'ordinamento sulla funzione `bubble_sort` con apposito parametro (*key*). Ordinamento multi-criterio realizzato con il **confronto tra tuple* da una opportuna funzione da passare come parametro `key`. Il metodo `sort` delle liste e la funzione `sorted`.
+
+#### Esercizio per casa
+
+Si progetti ed implementi una funzione che prenda in input due liste di numeri ordinati in modo crescente e restituisca una nuova lista contenente tutti gli elementi delle liste in input ordinati dal più piccolo al più grande.
+
+[Video della lezione](https://www.dropbox.com/s/qtq68v0awwh1ar6/Lezione%2021%20del%202022-12-19-20221219_140033-Registrazione%20della%20riunione.mp4?dl=1)

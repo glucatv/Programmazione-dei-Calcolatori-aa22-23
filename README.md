@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato al 20 dicembre, 2022
+### Aggiornato al 22 dicembre, 2022
 
 0. Introduzione al modello computazionale
 
@@ -30,6 +30,7 @@
 	   	- Bubble-sort (Dispense)
 	  	- Personalizzare il criterio di ordinamento (script lezione 21)
 	  	- Ordinamento multi criterio e confronto tra tuple (script lezione 21)
+	  	- Merge-sort (Guttag 12.2)
 	   
 ## Testi di riferimento
 

@@ -289,3 +289,18 @@ Soluzione degli esercizi per casa. Impostare il criterio per l'ordinamento sulla
 Si progetti ed implementi una funzione che prenda in input due liste di numeri ordinati in modo crescente e restituisca una nuova lista contenente tutti gli elementi delle liste in input ordinati dal più piccolo al più grande.
 
 [Video della lezione](https://www.dropbox.com/s/qtq68v0awwh1ar6/Lezione%2021%20del%202022-12-19-20221219_140033-Registrazione%20della%20riunione.mp4?dl=1)
+
+
+## Lezione 22 del 2022-12-21
+
+Soluzione dell'esercizio per casa, algoritmo di *merge*. Utilizzo dell'algoritmo di merge per definire l'algoritmo di *ordinamento per fusione* (**merge sort**): descrizione, complessità computazionale (`O(n log n)`), implementazione.
+
+#### Esercizi per casa
+
+1. Modificare le funzioni `bubble_sort` e `merge_sort` in modo che ritornino il numero di confronti eseguiti; scrivere una funzione per testare quanti confronti eseguono i due algoritmi su istanze di lunghezza diversa. La funzione deve eseguire i test su liste generate 'casualmente' di lunghezze diverse e, per ogni test eseguito, deve salvare su una riga di un file csv: la lunghezza della lista usata per il test; numero di confronti eseguiti da `bubble_sort`; numero di confronti eseguiti da `merge_sort`.
+
+2. Modificare la funzione `merge_sort` rendendo i parametri `lx` e `rx` opzionali. Se non indicati, la funzione deve ordinare tutta la lista.
+
+3. Modificare la funzione dell'Esercizio 1 in modo la questa ritorni un dizionario `C` che mappi interi a coppie di `float` con la seguente semantica: `C[n] = (b, m)` se su liste lunghe `n` il numero di confronti medi di `bubble_sort` è stato `b` e quello di `merge_sort` è stato `m`.
+
+[Video della lezione](https://www.dropbox.com/s/hpb5qb9e8yt7fdm/Lezione%2022%20del%202022-12-21-20221221_140124-Registrazione%20della%20riunione.mp4?dl=1)

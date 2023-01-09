@@ -304,3 +304,15 @@ Soluzione dell'esercizio per casa, algoritmo di *merge*. Utilizzo dell'algoritmo
 3. Modificare la funzione dell'Esercizio 1 in modo la questa ritorni un dizionario `C` che mappi interi a coppie di `float` con la seguente semantica: `C[n] = (b, m)` se su liste lunghe `n` il numero di confronti medi di `bubble_sort` è stato `b` e quello di `merge_sort` è stato `m`.
 
 [Video della lezione](https://www.dropbox.com/s/hpb5qb9e8yt7fdm/Lezione%2022%20del%202022-12-21-20221221_140124-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 23 del 2023-01-09
+
+Soluzione degli esercizi per casa. Introduzione al modulo `matplotlib`, la funzione `plot`. La gestione delle eccezioni con `try...except`. La funzione `zip`.
+
+#### Esercizi per casa
+
+1. Sperimentare la funzione `zip` con sequenze in input di lunghezza diversa.
+2. Si abbiano `n` tuple di dimensione 2 denominate `t1`, `t2`, ..., `tn` cosa restituisce `zip(t1,t2,...,tn)`?
+3. Scrivere una funzione che prenda in input una lista di interi `a` e restituisca il numero di volte in cui la somma di due elementi consecutivi è uguale all'elemento che li segue. Ad esempio se `a = [5,3,8,6,14]` la funzione dovrebbe restituire `2`.
+
+[Video della lezione](https://www.dropbox.com/s/he8tgspgq7xhnah/Lezione%2023%20-%20Riunione%20in%20_Generale_-20230109_140126-Registrazione%20della%20riunione.mp4?dl=1)

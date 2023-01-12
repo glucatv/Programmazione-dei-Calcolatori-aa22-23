@@ -96,7 +96,6 @@ L = [10, 4, 5, 2, 5, 6, 0, 1, 2, 4, 0, 5, 4, 10]
 merge(L, 3, 6, 10)
 print(L)
 
-
 def merge_sort(a, lx, rx):
     '''
     Parameters

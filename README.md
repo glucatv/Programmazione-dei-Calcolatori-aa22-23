@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato al 22 dicembre, 2022
+### Aggiornato all'11 gennaio, 2023
 
 0. Introduzione al modello computazionale
 
@@ -14,7 +14,7 @@
         - No par. 2.4.2
     3. Funzioni
         - Guttag capitolo 4 
-        - Funzioni di libreria (cenni sui moduli *random*, *math* e *time*)
+        - Funzioni di libreria (cenni sui moduli *random*, *math*, *time*, *matplotlib*)
     4. Strutture dati
 	    - Tuple (Guttag 5.1)
 	    - Range (Guttag 5.2)
@@ -31,6 +31,10 @@
 	  	- Personalizzare il criterio di ordinamento (script lezione 21)
 	  	- Ordinamento multi criterio e confronto tra tuple (script lezione 21)
 	  	- Merge-sort (Guttag 12.2)
+  	* Gestione delle eccezione con `try...except` (Guttag 9.1)
+  	* Il modulo *matplotlib*: la funzione `plot` e cenni sulla personalizzazione di un grafico (Guttag 13.1)
+  	* La funzione `zip` e l'operatore di spacchettamento `*` (script lezione 24)
+  	* *Complessità spaziale* ovvero il costo computazionale in termini di *memoria supplementare* (dispense)
 	   
 ## Testi di riferimento
 

@@ -316,3 +316,9 @@ Soluzione degli esercizi per casa. Introduzione al modulo `matplotlib`, la funzi
 3. Scrivere una funzione che prenda in input una lista di interi `a` e restituisca il numero di volte in cui la somma di due elementi consecutivi è uguale all'elemento che li segue. Ad esempio se `a = [5,3,8,6,14]` la funzione dovrebbe restituire `2`.
 
 [Video della lezione](https://www.dropbox.com/s/he8tgspgq7xhnah/Lezione%2023%20-%20Riunione%20in%20_Generale_-20230109_140126-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 24 del 2023-01-11
+
+Soluzione degli esercizi per casa. L'operatore di spacchettamento `*` ed utilizzo con la funzione `zip` per estrarre le sequenze di tutti gli elementi in una data posizione in un elenco di sequenze. Il costo computazione in termini di *memoria utilizzata*: valutazione al netto della memoria utilizzate per l'input e l'output; memoria utilizzata dalle funzioni ricorsive.
+
+[Video della lezione](https://www.dropbox.com/s/h93qzi5g0yhgd36/Lezione%2024%20del%202023-01-11-20230111_140037-Registrazione%20della%20riunione.mp4?dl=1)

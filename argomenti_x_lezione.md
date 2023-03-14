@@ -322,3 +322,7 @@ Soluzione degli esercizi per casa. Introduzione al modulo `matplotlib`, la funzi
 Soluzione degli esercizi per casa. L'operatore di spacchettamento `*` ed utilizzo con la funzione `zip` per estrarre le sequenze di tutti gli elementi in una data posizione in un elenco di sequenze. Il costo computazione in termini di *memoria utilizzata*: valutazione al netto della memoria utilizzate per l'input e l'output; memoria utilizzata dalle funzioni ricorsive.
 
 [Video della lezione](https://www.dropbox.com/s/h93qzi5g0yhgd36/Lezione%2024%20del%202023-01-11-20230111_140037-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 25 del 2023-03-09
+
+Seconda prova intermedia

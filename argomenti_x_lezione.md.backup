@@ -342,3 +342,20 @@ Linguaggio C: operatori logici e relazionali; cicli `while` e `for`; le istruzio
 Scrivere una funzione C denominata `switch_case` che prende in input un `char` `c`: se `c` è una lettera maiuscola ritorni il corrispondente minuscolo; se `c` è una lettera minuscola ritorni il corrispondente maiuscolo; nel caso `c` non sia una lettera, la funzione ritorni `-1`. 
 
 [Video della lezione](https://www.dropbox.com/s/davmzie8hv233ei/Lezione%2027%20del%202023-03-16-20230316_113043-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 28 del 2023-03-22
+
+Soluzione dell'esercizio per casa. Prototipo delle funzioni. Il processo di compilazione e l'inclusione dei file `.h`. La struttura dati *array*: definizioni e proprietà; array come parametri di funzione; funzioni che modificano array; la funzione `sizeof()`.
+
+[Video della lezione](https://www.dropbox.com/s/uogt1odr6q7h1qn/Lezione%2029%20del%202023-03-23-20230323_110108-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 29 del 2023-03-23
+
+Il tipo di dato puntatore. Allocare memoria in *run-time* con la funzione di libreria `malloc`. La funzione `free`. Aritmetica dei puntatori. Come clonare un array. Introduzione alla creazione di array dinamici.
+
+
+#### Esercizio per casa
+
+
+
+[Video della lezione](https://www.dropbox.com/s/y4ex3zqymdx975o/Lezioni%202022-23-20221010_140146-Registrazione%20della%20riunione.mp4?dl=1)

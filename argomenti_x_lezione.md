@@ -369,7 +369,7 @@ Array dinamici con costo di append costante (costo ammortizzato). L'operazione d
 [Video della lezione](https://www.dropbox.com/s/t0vya9yqdhn1c3a/Lezione%2031%20del%202023-03-30-20230330_110025-Registrazione%20della%20riunione.mp4?dl=1)
 
 
-**Esercizio**: Si scriva una funzione `C`, avente il seguente prototipo:
+**Esercizio per casa**: Si scriva una funzione `C`, avente il seguente prototipo:
 
 ```
 array_int trova_spazi(char *a);

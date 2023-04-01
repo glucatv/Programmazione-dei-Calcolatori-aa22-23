@@ -375,4 +375,4 @@ Array dinamici con costo di append costante (costo ammortizzato). L'operazione d
 array_int trova_spazi(char *a);
 ```
 
-La funzione riceve in input una stringa e restituisce le
+La funzione riceve in input una stringa e restituisce un `array_int` contenente le posizioni degli spazi in `a`.

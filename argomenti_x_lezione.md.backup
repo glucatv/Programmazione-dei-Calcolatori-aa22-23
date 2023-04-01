@@ -354,8 +354,17 @@ Soluzione dell'esercizio per casa. Prototipo delle funzioni. Il processo di comp
 Il tipo di dato puntatore. Allocare memoria in *run-time* con la funzione di libreria `malloc`. La funzione `free`. Aritmetica dei puntatori. Come clonare un array. Introduzione alla creazione di array dinamici.
 
 
-#### Esercizio per casa
-
-
-
 [Video della lezione](https://www.dropbox.com/s/y4ex3zqymdx975o/Lezioni%202022-23-20221010_140146-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 30 del 2023-03-26
+
+Le stringhe come array di `char`. Esempi: calcolare la lunghezza di due stringhe e creare una nuova stringa formata dalla concatenazione di due altre stringhe. Creare nuovi tipi di dato con le `struct` e `typedef`. Prima versione di array dinamico che supporta l'operazione di append.
+
+[Video della lezione]()
+
+## Lezione 31 del 2023-03-30
+
+Array dinamici con costo di append costante (costo ammortizzato). L'operazione di inserimento. L'operazione di pop (eliminazione dell'elemento dal fondo), introduzione.
+
+[Video della lezione]()
+

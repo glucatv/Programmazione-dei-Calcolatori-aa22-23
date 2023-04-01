@@ -27,3 +27,5 @@
 25. 2023-03-09, prova intermedia
 26. [2023-03-15](https://www.dropbox.com/s/8snrbkvpkmhw892/Lezione%2026%20del%202023-03-15-20230315_133125-Registrazione%20della%20riunione.mp4?dl=1)
 27. [2023-03-16](https://www.dropbox.com/s/davmzie8hv233ei/Lezione%2027%20del%202023-03-16-20230316_113043-Registrazione%20della%20riunione.mp4?dl=1)
+28. [2023-03-22](https://www.dropbox.com/s/uogt1odr6q7h1qn/Lezione%2029%20del%202023-03-23-20230323_110108-Registrazione%20della%20riunione.mp4?dl=1)
+29. [2023-03-23](https://www.dropbox.com/s/y4ex3zqymdx975o/Lezioni%202022-23-20221010_140146-Registrazione%20della%20riunione.mp4?dl=1)

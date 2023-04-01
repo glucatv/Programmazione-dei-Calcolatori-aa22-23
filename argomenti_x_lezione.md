@@ -355,3 +355,16 @@ Il tipo di dato puntatore. Allocare memoria in *run-time* con la funzione di lib
 
 
 [Video della lezione](https://www.dropbox.com/s/y4ex3zqymdx975o/Lezioni%202022-23-20221010_140146-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 30 del 2023-03-26
+
+Le stringhe come array di `char`. Esempi: calcolare la lunghezza di due stringhe e creare una nuova stringa formata dalla concatenazione di due altre stringhe. Creare nuovi tipi di dato con le `struct` e `typedef`. Prima versione di array dinamico che supporta l'operazione di append.
+
+[Video della lezione](https://www.dropbox.com/s/o5he4fl9pgghsjq/Lezione%2030%20del%202023-03-29-20230329_133011-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 31 del 2023-03-30
+
+Array dinamici con costo di append costante (costo ammortizzato). L'operazione di inserimento. L'operazione di pop (eliminazione dell'elemento dal fondo), introduzione.
+
+[Video della lezione](https://www.dropbox.com/s/t0vya9yqdhn1c3a/Lezione%2031%20del%202023-03-30-20230330_110025-Registrazione%20della%20riunione.mp4?dl=1)
+

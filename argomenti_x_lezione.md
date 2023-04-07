@@ -347,14 +347,14 @@ Scrivere una funzione C denominata `switch_case` che prende in input un `char` `
 
 Soluzione dell'esercizio per casa. Prototipo delle funzioni. Il processo di compilazione e l'inclusione dei file `.h`. La struttura dati *array*: definizioni e proprietà; array come parametri di funzione; funzioni che modificano array; la funzione `sizeof()`.
 
-[Video della lezione](https://www.dropbox.com/s/uogt1odr6q7h1qn/Lezione%2029%20del%202023-03-23-20230323_110108-Registrazione%20della%20riunione.mp4?dl=1)
+[Video della lezione](https://www.dropbox.com/s/mvjoguk6ojuzrsp/Lezione%2028%20del%202023-03-22-20230322_133121-Registrazione%20della%20riunione.mp4?dl=1)
 
 ## Lezione 29 del 2023-03-23
 
 Il tipo di dato puntatore. Allocare memoria in *run-time* con la funzione di libreria `malloc`. La funzione `free`. Aritmetica dei puntatori. Come clonare un array. Introduzione alla creazione di array dinamici.
 
 
-[Video della lezione](https://www.dropbox.com/s/y4ex3zqymdx975o/Lezioni%202022-23-20221010_140146-Registrazione%20della%20riunione.mp4?dl=1)
+[Video della lezione](https://www.dropbox.com/s/uogt1odr6q7h1qn/Lezione%2029%20del%202023-03-23-20230323_110108-Registrazione%20della%20riunione.mp4?dl=1)
 
 ## Lezione 30 del 2023-03-26
 
@@ -371,8 +371,30 @@ Array dinamici con costo di append costante (costo ammortizzato). L'operazione d
 
 **Esercizio per casa**: Si scriva una funzione `C`, avente il seguente prototipo:
 
-```
+```c
 array_int trova_spazi(char *a);
 ```
 
 La funzione riceve in input una stringa e restituisce un `array_int` contenente le posizioni degli spazi in `a`.
+
+## Lezione 32 del 2023-04-05
+
+Soluzione dell'esercizio per casa. L'operazione `pop` su array a dimensione variabile. La funzione `realloc`. La libreria `string` e le funzioni `strlen` e `strcpy`. Implementazione di liste (array) con elementi  di tipo disomogeneo: utilizzo del puntatore a `void`; casting; l'operarore `*`;
+
+[Video della lezione](https://www.dropbox.com/s/hc8y7zfpws60t0l/Lezione%2032%20del%202023-04-05-20230405_133021-Registrazione%20della%20riunione.mp4?dl=1)
+
+**Esercizi per casa**
+
+1. Implementare la funzione `append` su `array_int` utilizzando la funzione `realloc`
+2. Implementare la funzione avente il seguente prototipo:
+	
+	```c
+	array_int delete(array_int a, int i);
+	```
+	
+	che elimina da `a` l'elemento in posizione `i`. Ritorna l'`array_int` modificato. Discutere la complessità temporale e spaziale della funzione implementata.
+3. Implementare la funzione avente il seguente prototipo:
+	```c
+	int str_cmp(char *a, char *b);
+	```	
+	La funzione ritorna `0` se le due stringhe sono uguali; ritorna -1 se `a` precede `b` lessicograficamente e `+1` altrimenti.

@@ -27,8 +27,9 @@
 25. 2023-03-09, prova intermedia
 26. [2023-03-15](https://www.dropbox.com/s/8snrbkvpkmhw892/Lezione%2026%20del%202023-03-15-20230315_133125-Registrazione%20della%20riunione.mp4?dl=1)
 27. [2023-03-16](https://www.dropbox.com/s/davmzie8hv233ei/Lezione%2027%20del%202023-03-16-20230316_113043-Registrazione%20della%20riunione.mp4?dl=1)
-28. [2023-03-22](https://www.dropbox.com/s/uogt1odr6q7h1qn/Lezione%2029%20del%202023-03-23-20230323_110108-Registrazione%20della%20riunione.mp4?dl=1)
-29. [2023-03-23](https://www.dropbox.com/s/y4ex3zqymdx975o/Lezioni%202022-23-20221010_140146-Registrazione%20della%20riunione.mp4?dl=1)
+28. [2023-03-22](https://www.dropbox.com/s/mvjoguk6ojuzrsp/Lezione%2028%20del%202023-03-22-20230322_133121-Registrazione%20della%20riunione.mp4?dl=1)
+29. [2023-03-23](https://www.dropbox.com/s/uogt1odr6q7h1qn/Lezione%2029%20del%202023-03-23-20230323_110108-Registrazione%20della%20riunione.mp4?dl=1)
 30. [2023-03-29](https://www.dropbox.com/s/o5he4fl9pgghsjq/Lezione%2030%20del%202023-03-29-20230329_133011-Registrazione%20della%20riunione.mp4?dl=1)
 31. [2023-03-30](https://www.dropbox.com/s/t0vya9yqdhn1c3a/Lezione%2031%20del%202023-03-30-20230330_110025-Registrazione%20della%20riunione.mp4?dl=1)
+32. [2023-04-05](https://www.dropbox.com/s/hc8y7zfpws60t0l/Lezione%2032%20del%202023-04-05-20230405_133021-Registrazione%20della%20riunione.mp4?dl=1)
 

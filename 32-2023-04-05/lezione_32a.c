@@ -122,9 +122,3 @@ array_int array_int_pop(array_int v ){
 	return v;
 }
 
-/*
- * Per casa:
- * - implementate append con realloc
- * - implementare delete
- * 
- * */

@@ -398,3 +398,26 @@ Soluzione dell'esercizio per casa. L'operazione `pop` su array a dimensione vari
 	int str_cmp(char *a, char *b);
 	```	
 	La funzione ritorna `0` se le due stringhe sono uguali; ritorna -1 se `a` precede `b` lessicograficamente e `+1` altrimenti.
+	
+## Lezione 33 del 2023-04-12
+
+Ancora sugli array con elementi di tipo disomogeneo: finalizzazione dell'implementazione. Liste concatenate: definizioni, inserimento di un elemento in testa alla lista.
+
+[Video della lezione](https://www.dropbox.com/s/t68frj1mbvj8xsk/Lezione%2033%20del%202023-04-12-20230412_133052-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 34 del 2023-04-13
+
+Liste concatenate: ricerca; inserimento; cancellazione. Liste concatenate di stringhe. Argmenti alla linea di comando.
+
+[Video della lezione](https://www.dropbox.com/s/5q9xr0rdxd0wusb/Lezione%2034%20del%202022-04-13-20230413_110610-Registrazione%20della%20riunione.mp4?dl=1)
+
+**Esercizi per casa**
+
+1. Scrivere un programma che crei una lista concatenata di stringhe utilizzando quelle passate dalla linea di comando. Le posizioni delle stringhe nella lista deve rispettare quelle nella linea di comando.
+2. Si scriva una funzione avente il seguente prototipo:
+
+	```c
+	linked_list move_to_tail(linked_list L);
+	```
+	
+che sposta in coda il primo nodo della lista; restituisce la lista modificata.

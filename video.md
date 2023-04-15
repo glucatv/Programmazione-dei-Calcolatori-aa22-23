@@ -32,4 +32,6 @@
 30. [2023-03-29](https://www.dropbox.com/s/o5he4fl9pgghsjq/Lezione%2030%20del%202023-03-29-20230329_133011-Registrazione%20della%20riunione.mp4?dl=1)
 31. [2023-03-30](https://www.dropbox.com/s/t0vya9yqdhn1c3a/Lezione%2031%20del%202023-03-30-20230330_110025-Registrazione%20della%20riunione.mp4?dl=1)
 32. [2023-04-05](https://www.dropbox.com/s/hc8y7zfpws60t0l/Lezione%2032%20del%202023-04-05-20230405_133021-Registrazione%20della%20riunione.mp4?dl=1)
+33. [2023-04-12](https://www.dropbox.com/s/t68frj1mbvj8xsk/Lezione%2033%20del%202023-04-12-20230412_133052-Registrazione%20della%20riunione.mp4?dl=1)
+34. [2023-04-13](https://www.dropbox.com/s/5q9xr0rdxd0wusb/Lezione%2034%20del%202022-04-13-20230413_110610-Registrazione%20della%20riunione.mp4?dl=1)
 

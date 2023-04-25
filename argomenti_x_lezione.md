@@ -407,7 +407,7 @@ Ancora sugli array con elementi di tipo disomogeneo: finalizzazione dell'impleme
 
 ## Lezione 34 del 2023-04-13
 
-Liste concatenate: ricerca; inserimento; cancellazione. Liste concatenate di stringhe. Argmenti alla linea di comando.
+Liste concatenate: ricerca; inserimento; cancellazione. Liste concatenate di stringhe. Argomenti alla linea di comando.
 
 [Video della lezione](https://www.dropbox.com/s/5q9xr0rdxd0wusb/Lezione%2034%20del%202022-04-13-20230413_110610-Registrazione%20della%20riunione.mp4?dl=1)
 
@@ -421,3 +421,15 @@ Liste concatenate: ricerca; inserimento; cancellazione. Liste concatenate di str
 	```
 	
 che sposta in coda il primo nodo della lista; restituisce la lista modificata.
+
+## Lezione 35 del 2023-04-19
+
+Argomenti di funzione per riferimento: l'operarore `&`. Le funzioni `scanf` e `sscanf`.
+
+[Video della lezione](https://www.dropbox.com/s/2vq6yx9dfnz5ul0/Lezione%2035%20del%202023-04-19-20230419_133217-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 36 del 2923-04-20
+
+Implementazioni dei dizionari in `C` con liste di trabocco: funzioni di ricerca ed update.
+
+[Video della lezione](https://www.dropbox.com/s/pnnf82aghpji35n/Lezione%2036%20del%202023-04-20-20230420_110056-Registrazione%20della%20riunione.mp4?dl=1)

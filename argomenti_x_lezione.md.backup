@@ -407,17 +407,27 @@ Ancora sugli array con elementi di tipo disomogeneo: finalizzazione dell'impleme
 
 ## Lezione 34 del 2023-04-13
 
-Liste concatenate: ricerca; inserimento; cancellazione. Liste concatenate di stringhe. Argmenti alla linea di comando.
+Liste concatenate: ricerca; inserimento; cancellazione. Liste concatenate di stringhe. Argomenti alla linea di comando.
 
 [Video della lezione](https://www.dropbox.com/s/5q9xr0rdxd0wusb/Lezione%2034%20del%202022-04-13-20230413_110610-Registrazione%20della%20riunione.mp4?dl=1)
 
 **Esercizi per casa**
 
-1. Scrivere un programma che creai una lista concatenata di stringhe utilizzando quelle passate dalla linea di comando. Le posizioni delle stringhe nella lista deve rispettare quelle nella linea di comando.
+1. Scrivere un programma che crei una lista concatenata di stringhe utilizzando quelle passate dalla linea di comando. Le posizioni delle stringhe nella lista deve rispettare quelle nella linea di comando.
 2. Si scriva una funzione avente il seguente prototipo:
 
 	```c
 	linked_list move_to_tail(linked_list L);
 	```
 	
-che sposta in coda il primo nodo della lista. 
+che sposta in coda il primo nodo della lista; restituisce la lista modificata.
+
+## Lezione 35 del 2023-04-19
+
+Argomenti di funzione per riferimento: l'operarore `&`. Le funzioni `scanf` e `sscanf`.
+
+[Video della lezione]()
+
+## Lezione 36 dek 2923-04-20
+
+Implementazioni dei dizionari in `C` con liste di trabocco: funzioni di ricerca ed update.

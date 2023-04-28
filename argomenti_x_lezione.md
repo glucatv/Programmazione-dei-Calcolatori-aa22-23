@@ -428,8 +428,20 @@ Argomenti di funzione per riferimento: l'operarore `&`. Le funzioni `scanf` e `s
 
 [Video della lezione](https://www.dropbox.com/s/2vq6yx9dfnz5ul0/Lezione%2035%20del%202023-04-19-20230419_133217-Registrazione%20della%20riunione.mp4?dl=1)
 
-## Lezione 36 del 2923-04-20
+## Lezione 36 del 2023-04-20
 
 Implementazioni dei dizionari in `C` con liste di trabocco: funzioni di ricerca ed update.
 
 [Video della lezione](https://www.dropbox.com/s/pnnf82aghpji35n/Lezione%2036%20del%202023-04-20-20230420_110056-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 37 del 2023-04-26
+
+Dizionari in `C`: funzioni `hash`; cancellazione; ridimensionamento dell'array delle liste di trabocco per mantenere costante la lunghezza delle liste. Implementazione di array multidimensionali.
+
+[Video della lezione](https://www.dropbox.com/s/xbheda7t0gaor2n/Lezione%2037%20del%202023-04-26.mp4?dl=1)
+
+## Lezione 38 del 2023-04-27
+
+Matrici con array lineare: funzioni di conversione indice-coordinate e viceversa. Matrici con array di array.
+
+[Video della lezione](https://www.dropbox.com/s/yok6o1gys2tzjsy/Lezione%2038%20del%202023-04-27.mp4?dl=1)

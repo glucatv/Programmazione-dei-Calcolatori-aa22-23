@@ -445,3 +445,13 @@ Dizionari in `C`: funzioni `hash`; cancellazione; ridimensionamento dell'array d
 Matrici con array lineare: funzioni di conversione indice-coordinate e viceversa. Matrici con array di array.
 
 [Video della lezione](https://www.dropbox.com/s/yok6o1gys2tzjsy/Lezione%2038%20del%202023-04-27.mp4?dl=1)
+
+## Lezione 39 del 2023-05-03
+
+Terza prova intermedia
+
+## Lezione 40 del 2023-05-04
+
+Correzione e commenti sulla terza prova intermedia. Le `union` in `C`.
+
+[Video della lezione](https://www.dropbox.com/s/qbienic5g1bbbu1/Lezione%2040%20del%202023-05-04.mkv?dl=1)

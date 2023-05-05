@@ -38,3 +38,5 @@
 36. [2023-04-20](https://www.dropbox.com/s/pnnf82aghpji35n/Lezione%2036%20del%202023-04-20-20230420_110056-Registrazione%20della%20riunione.mp4?dl=1)
 37. [2023-04-26](https://www.dropbox.com/s/xbheda7t0gaor2n/Lezione%2037%20del%202023-04-26.mp4?dl=1)
 38. [2023-04-27](https://www.dropbox.com/s/yok6o1gys2tzjsy/Lezione%2038%20del%202023-04-27.mp4?dl=1)
+39. 2023-05-03, prova intermedia
+40. [2023-05-04](https://www.dropbox.com/s/qbienic5g1bbbu1/Lezione%2040%20del%202023-05-04.mkv?dl=1)

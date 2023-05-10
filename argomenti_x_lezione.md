@@ -455,3 +455,11 @@ Terza prova intermedia
 Correzione e commenti sulla terza prova intermedia. Le `union` in `C`.
 
 [Video della lezione](https://www.dropbox.com/s/qbienic5g1bbbu1/Lezione%2040%20del%202023-05-04.mkv?dl=1)
+
+## Lezione 41 del 2023-05-10
+
+La libreria **pandas**: `DataFrame`; operazione su colonne; filtri sulle righe; re-indicizzazione; *slicing* con `loc` e `iloc`; iterazione su righe; ordinamento.
+
+**Esercizio**. Si modifichi il DataFrame `classifica` creato a lezione aggiungendo una colonna contenente la differenza reti di ogni squadra.
+
+[Video della lezione](https://www.dropbox.com/s/p92rawacdhv1ozv/Lezione%2041%20del%202023-05-10-20230510_133309-Registrazione%20della%20riunione.mp4?dl=1)

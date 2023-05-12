@@ -463,3 +463,9 @@ La libreria **pandas**: `DataFrame`; operazione su colonne; filtri sulle righe; 
 **Esercizio**. Si modifichi il DataFrame `classifica` creato a lezione aggiungendo una colonna contenente la differenza reti di ogni squadra.
 
 [Video della lezione](https://www.dropbox.com/s/p92rawacdhv1ozv/Lezione%2041%20del%202023-05-10-20230510_133309-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 42 del 2023-05-11
+
+La libreria *panda*: ordinamento su più criteri; gestione di colonne con tempi (la funzione `to_timedelta`); esempi.
+
+[Video della lezione](https://www.dropbox.com/s/8s7nkbbbvixjegg/Lezione%2042%20del%202023-05-11-20230511_110250-Registrazione%20della%20riunione.mp4?dl=1)

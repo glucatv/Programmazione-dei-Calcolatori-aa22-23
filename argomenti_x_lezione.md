@@ -469,3 +469,9 @@ La libreria **pandas**: `DataFrame`; operazione su colonne; filtri sulle righe; 
 La libreria *panda*: ordinamento su più criteri; gestione di colonne con tempi (la funzione `to_timedelta`); esempi.
 
 [Video della lezione](https://www.dropbox.com/s/8s7nkbbbvixjegg/Lezione%2042%20del%202023-05-11-20230511_110250-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 43 del 2023-05-17
+
+Esercizi con `pandas`; serie temporali; `pandas`, funzione `to_datetime` e metodo `apply`. Variagili globali e dichiarazione `global`. 
+
+[Video della lezione](https://www.dropbox.com/s/yed39b1da8stxw6/Lezione%2043%20del%202023-05-17-20230517_133053-Registrazione%20della%20riunione.mp4?dl=1)

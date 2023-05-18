@@ -1,6 +1,5 @@
 # Argomenti per lezione
 
-
 ## Lezione 1 del 2022-10-10
 
 Introduzione al corso. Metodo algoritmico. Esempi: Rompicapo di Guarini; Calcolo della radice quadrata.
@@ -475,3 +474,9 @@ La libreria *panda*: ordinamento su più criteri; gestione di colonne con tempi 
 Esercizi con `pandas`; serie temporali; `pandas`, funzione `to_datetime` e metodo `apply`. Variagili globali e dichiarazione `global`. 
 
 [Video della lezione](https://www.dropbox.com/s/yed39b1da8stxw6/Lezione%2043%20del%202023-05-17-20230517_133053-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 44 del 2023-05-18
+
+La libreria `pandas`:  metodi `argmax`, `argmin`, `transpose`, `shift`; rappresentazione grafica dei dati in un dataframe con la libreria `matplotlib`. **Esercizio**: Utilizzando il dataset `us_temperatures.csv` rappresentare con un diagramma a barre la temperatura media delle città del dataset.
+
+[Video della lezione](https://www.dropbox.com/s/w9in7h1ir7kaho8/Lezione%2044%20del%202023-05-18-20230518_110017-Registrazione%20della%20riunione.mp4?dl=1)

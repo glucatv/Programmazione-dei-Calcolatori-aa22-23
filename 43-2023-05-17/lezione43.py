@@ -82,12 +82,6 @@ df_temp2003 = df_temp[ df_temp['Date'].apply(lambda x: x.year == 2003) ]
 # In[]
 
 def report_year(y):
-    global n
-
-    try:    
-        n += 1
-    except NameError:
-        n = 1
     df_y = df_temp[ df_temp['Date'].apply(lambda x: x.year == y) ]
     
     for c in df_y.columns[1:]:

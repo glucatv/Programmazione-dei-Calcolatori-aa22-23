@@ -44,3 +44,5 @@
 42. [2023-05-11](https://www.dropbox.com/s/8s7nkbbbvixjegg/Lezione%2042%20del%202023-05-11-20230511_110250-Registrazione%20della%20riunione.mp4?dl=1)
 43. [2023-05-17](https://www.dropbox.com/s/yed39b1da8stxw6/Lezione%2043%20del%202023-05-17-20230517_133053-Registrazione%20della%20riunione.mp4?dl=1)
 44. [2023-05-18](https://www.dropbox.com/s/w9in7h1ir7kaho8/Lezione%2044%20del%202023-05-18-20230518_110017-Registrazione%20della%20riunione.mp4?dl=1)
+45. [2023-05-24](https://www.dropbox.com/s/4cbamj3f3pwg8ig/Lezione%2045%20del%202023-05-24-20230524_103116-Registrazione%20della%20riunione.mp4?dl=1)
+46. [2023-05-25](https://www.dropbox.com/s/14gbahi9r8sbwpy/Lezione%2046%20del%202023-05-25-20230525_103055-Registrazione%20della%20riunione.mp4?dl=1)

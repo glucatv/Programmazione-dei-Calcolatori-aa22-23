@@ -480,3 +480,17 @@ Esercizi con `pandas`; serie temporali; `pandas`, funzione `to_datetime` e metod
 La libreria `pandas`:  metodi `argmax`, `argmin`, `transpose`, `shift`; rappresentazione grafica dei dati in un dataframe con la libreria `matplotlib`. **Esercizio**: Utilizzando il dataset `us_temperatures.csv` rappresentare con un diagramma a barre la temperatura media delle città del dataset.
 
 [Video della lezione](https://www.dropbox.com/s/w9in7h1ir7kaho8/Lezione%2044%20del%202023-05-18-20230518_110017-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 45 del 2023-05-24
+
+Esercitazioni con `Pandas`, `matplotlib`. La funzione `barh`. Esportazione da `matplotlib` in formato grafico.
+
+[Video della lezione](https://www.dropbox.com/s/4cbamj3f3pwg8ig/Lezione%2045%20del%202023-05-24-20230524_103116-Registrazione%20della%20riunione.mp4?dl=1)
+
+## Lezione 46 del 2023-05-25
+
+Esercitazione con il `C` su puntatori ed array.
+
+[Video della lezione](https://www.dropbox.com/s/14gbahi9r8sbwpy/Lezione%2046%20del%202023-05-25-20230525_103055-Registrazione%20della%20riunione.mp4?dl=1)
+
+
